@@ -12,6 +12,8 @@ main {
 	height: 92%;
 	padding: 2rem 0;
 	box-sizing: border-box;
+	flex-direction: column;
+	gap: 1rem;
 }
 
 .color-picker {
@@ -26,6 +28,15 @@ main {
 .color-info {
 	margin-top: 20px;
 }
+
+#generateRandomBtn {
+	background: transparent;
+	border: 1px solid #adadad;
+	padding: 0.35rem 1rem;
+	border-radius: 8px;
+	color: #6a6a6a;
+}
+
 p {
 	margin: 5px 0;
 	font-size: 16px;
