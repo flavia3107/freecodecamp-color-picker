@@ -21,6 +21,5 @@ This project allows users to select colors visually and see their corresponding 
 ✅ **Color Picker Input** — Easily select any color  
 ✅ **Display Color Values** — View HEX, RGB, and HSL formats  
 ✅ **Real-time Updates** — Instantly see color changes  
-✅ **Copy to Clipboard** — Quickly copy color values (optional, if implemented)  
 ✅ **Lightweight & Fast** — Runs smoothly on any modern browser  
 ✅ **Responsive Design** — Works on desktop and mobile  
