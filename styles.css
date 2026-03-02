@@ -1,6 +1,6 @@
 body {
 	font-family: Arial, sans-serif;
-	height: 100vh;
+	height: 99vh;
 	margin: 0;
 	background-color: #f0f0f0;
 }
@@ -22,8 +22,9 @@ main {
 	border-radius: 8px;
 	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 	text-align: center;
-	width: 23rem;
+	max-width: 23rem;
 	height: 30rem;
+	width: 75%;
 }
 .color-info {
 	margin-top: 20px;
